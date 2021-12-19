@@ -1,0 +1,13 @@
+Ukupno vrijeme trajanja simulacije iznosi 40 sekundi.
+Ukupan broj kreiranih objekata tipa Stanovnik je->24.
+Ukupan broj kreiranih objekata tipa Ambulanta je->4.
+Ukupan broj kreiranih objekata tipa AmbulatnoVozilo je->2.
+Ukupan broj kreiranih objekata tipa Kuca je->14.
+Ukupan broj kreiranih objekata tipa KontrolniPunkt je->7.
+Informacije o zarazenima virusom Korona->
+U toku simulacije zarazeno je 2
+Trenuntno je zarazeno 2, a oporavljeno 0
+Procentualno:8%, 0%
+Trenutno zarazeno muskih:50%
+Trenutno zarazeno zenskih:50%
+Odrasli:0%, stari:50%, djeca:50%
